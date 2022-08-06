@@ -1,0 +1,3 @@
+﻿  char.c
+D:\桌面\学习库\仓库\-\多个字符两边向中间汇聚\Project1\char.c(10,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project1.vcxproj -> D:\桌面\学习库\仓库\-\多个字符两边向中间汇聚\Project1\x64\Debug\Project1.exe
